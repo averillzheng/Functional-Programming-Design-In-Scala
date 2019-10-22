@@ -11518,7 +11518,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 2983ms :: artifacts dl 61ms
+[debug] :: resolution report :: resolve 2965ms :: artifacts dl 55ms
 [debug] 	report for default#streams-build;0.1-SNAPSHOT compile produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-compile.xml
 [debug] 	report for default#streams-build;0.1-SNAPSHOT runtime produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-runtime.xml
 [debug] 	report for default#streams-build;0.1-SNAPSHOT test produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-test.xml
@@ -11532,5 +11532,5 @@
 [debug] 	report for default#streams-build;0.1-SNAPSHOT docs produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-docs.xml
 [debug] 	report for default#streams-build;0.1-SNAPSHOT pom produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-pom.xml
 [debug] 	report for default#streams-build;0.1-SNAPSHOT scala-tool produced in /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-scala-tool.xml
-[debug] 	resolve done (2983ms resolve - 61ms download)
+[debug] 	resolve done (2965ms resolve - 55ms download)
 [info] Done updating.
