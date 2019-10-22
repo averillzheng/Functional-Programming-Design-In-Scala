@@ -18,7 +18,7 @@
 [info] Compiling 8 Scala sources to /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/target/scala-2.10/sbt-0.13/classes...
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
-[debug] Running cached compiler 569ea73b, interfacing (CompilerInterface) with Scala compiler version 2.10.7
+[debug] Running cached compiler 597abfe4, interfacing (CompilerInterface) with Scala compiler version 2.10.7
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
 [debug] 	-deprecation
 [debug] 	-bootclasspath
@@ -29,7 +29,7 @@
 [warn] trait CommonBuild extends Build {
 [warn]                           ^
 [warn] one warning found
-[debug] Scala compilation took 8.5208686 s
+[debug] Scala compilation took 11.778945668 s
 [debug] [naha] Invalidating /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/StudentBuildLike.scala...
 [debug] [naha] Invalidating (transitively) by inheritance from /Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/StudentBuildLike.scala...
 [debug] [naha] Initial set of included nodes: Set(/Users/yongzheng/project/Functional-Programming-Design-In-Scala/streams/project/StudentBuildLike.scala)
