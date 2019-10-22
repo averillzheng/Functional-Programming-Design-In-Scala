@@ -1,7 +1,5 @@
 package streams
 
-import common._
-
 /**
  * This component implements the solver for the Bloxorz game
  */
@@ -87,7 +85,7 @@ trait Solver extends GameDef {
    * with the history how it was reached.
    */
   lazy val pathsToGoal: Stream[(Block, List[Move])] =
-    pathsFromStart.filter(tuple => tuple._1.b1 == goal && tuple._1.b2 == goal)
+    pathsFromStart.filter(tuple => done(tuple._1))
 
   /**
    * The (or one of the) shortest sequence(s) of moves to reach the
